@@ -1,4 +1,6 @@
 # curhatyuk-.io
+
+  <meta charset="UTF-8">
 <head>
   
       font-family: 'Segoe UI', sans-serif;
